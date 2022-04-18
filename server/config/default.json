@@ -1,5 +1,6 @@
 {
     "port": "5000",
+    "tokenKey": "token",
     "dbConfig": {
         "dbName": "hypnosDB"
     }
